@@ -29,6 +29,16 @@ Tech stack:
 - **Backend**: Node.js + Express + TypeScript + MongoDB (Mongoose) + JWT
 - **ML Service**: Python + FastAPI (stub scoring with a simple heuristic but ready to swap with a trained model)
 
+🧠 Future Enhancements
+
+Integrate a trained ML model for smarter plan recommendations
+
+Add wearable data sync (Apple Watch / Fitbit)
+
+Social features (share workouts and progress)
+
+Personalized nutrition and recovery tracking
+
 ## Monorepo Structure
 ```
 smart-workout/
