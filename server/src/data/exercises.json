@@ -1,0 +1,564 @@
+[
+  {
+    "name": "Barbell Back Squat",
+    "primaryMuscle": "legs",
+    "secondaryMuscles": [
+      "glutes",
+      "core"
+    ],
+    "equipment": [
+      "barbell",
+      "rack"
+    ],
+    "movementPattern": "squat",
+    "difficulty": 4,
+    "isUnilateral": false,
+    "contraindications": [
+      "knee"
+    ],
+    "tags": [
+      "compound",
+      "strength"
+    ],
+    "instructions": [
+      "Set bar at mid-trap height",
+      "Brace core",
+      "Sit back and down"
+    ]
+  },
+  {
+    "name": "Conventional Deadlift",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings",
+      "core"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "movementPattern": "hinge",
+    "difficulty": 5,
+    "isUnilateral": false,
+    "contraindications": [
+      "lower_back"
+    ],
+    "tags": [
+      "compound",
+      "strength"
+    ],
+    "instructions": [
+      "Hinge at hips",
+      "Keep bar close",
+      "Drive through floor"
+    ]
+  },
+  {
+    "name": "Bench Press",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "movementPattern": "push",
+    "difficulty": 3,
+    "isUnilateral": false,
+    "contraindications": [
+      "shoulder"
+    ],
+    "tags": [
+      "compound"
+    ],
+    "instructions": [
+      "Scapular retraction",
+      "Touch chest",
+      "Lockout without flaring"
+    ]
+  },
+  {
+    "name": "Pull-Up",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "biceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "pullup_bar"
+    ],
+    "movementPattern": "pull",
+    "difficulty": 4,
+    "isUnilateral": false,
+    "contraindications": [
+      "elbow",
+      "shoulder"
+    ],
+    "tags": [
+      "bodyweight",
+      "compound"
+    ],
+    "instructions": [
+      "Full hang",
+      "Pull chest to bar",
+      "Control down"
+    ]
+  },
+  {
+    "name": "Dumbbell Row",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "movementPattern": "pull",
+    "difficulty": 2,
+    "isUnilateral": true,
+    "contraindications": [
+      "lower_back"
+    ],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Flat back",
+      "Row to hip",
+      "Squeeze lat"
+    ]
+  },
+  {
+    "name": "Overhead Press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscles": [
+      "triceps",
+      "upper_back"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "movementPattern": "push",
+    "difficulty": 3,
+    "isUnilateral": false,
+    "contraindications": [
+      "shoulder"
+    ],
+    "tags": [
+      "compound"
+    ],
+    "instructions": [
+      "Brace glutes",
+      "Press overhead",
+      "Head through window"
+    ]
+  },
+  {
+    "name": "Dumbbell Bench Press",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "movementPattern": "push",
+    "difficulty": 2,
+    "isUnilateral": false,
+    "contraindications": [
+      "shoulder"
+    ],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Neutral wrist",
+      "Elbows ~45\u00b0",
+      "Control tempo"
+    ]
+  },
+  {
+    "name": "Romanian Deadlift",
+    "primaryMuscle": "hamstrings",
+    "secondaryMuscles": [
+      "glutes",
+      "lower_back"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "movementPattern": "hinge",
+    "difficulty": 3,
+    "isUnilateral": false,
+    "contraindications": [
+      "lower_back",
+      "hamstring"
+    ],
+    "tags": [
+      "compound",
+      "posterior_chain"
+    ],
+    "instructions": [
+      "Soft knees",
+      "Hinge hips",
+      "Feel hamstring stretch"
+    ]
+  },
+  {
+    "name": "Plank",
+    "primaryMuscle": "core",
+    "secondaryMuscles": [],
+    "equipment": [
+      "bodyweight"
+    ],
+    "movementPattern": "core",
+    "difficulty": 1,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "isometric",
+      "bodyweight"
+    ],
+    "instructions": [
+      "Neutral spine",
+      "Brace abs",
+      "Breathe"
+    ]
+  },
+  {
+    "name": "Goblet Squat",
+    "primaryMuscle": "legs",
+    "secondaryMuscles": [
+      "core",
+      "glutes"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "movementPattern": "squat",
+    "difficulty": 1,
+    "isUnilateral": false,
+    "contraindications": [
+      "knee"
+    ],
+    "tags": [
+      "beginner",
+      "accessory"
+    ],
+    "instructions": [
+      "Chest up",
+      "Knees track toes",
+      "Depth as mobility allows"
+    ]
+  },
+  {
+    "name": "Incline Dumbbell Press",
+    "primaryMuscle": "chest",
+    "secondaryMuscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "movementPattern": "push",
+    "difficulty": 2,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Lat Pulldown",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "movementPattern": "pull",
+    "difficulty": 2,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Seated Cable Row",
+    "primaryMuscle": "back",
+    "secondaryMuscles": [
+      "biceps"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "movementPattern": "pull",
+    "difficulty": 2,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Leg Press",
+    "primaryMuscle": "legs",
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "movementPattern": "squat",
+    "difficulty": 2,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Lateral Raise",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscles": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "movementPattern": "push",
+    "difficulty": 1,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Bicep Curl",
+    "primaryMuscle": "arms",
+    "secondaryMuscles": [],
+    "equipment": [
+      "dumbbells"
+    ],
+    "movementPattern": "pull",
+    "difficulty": 1,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Tricep Pushdown",
+    "primaryMuscle": "arms",
+    "secondaryMuscles": [],
+    "equipment": [
+      "cable_machine"
+    ],
+    "movementPattern": "push",
+    "difficulty": 1,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Hip Thrust",
+    "primaryMuscle": "glutes",
+    "secondaryMuscles": [
+      "hamstrings"
+    ],
+    "equipment": [
+      "barbell",
+      "bench"
+    ],
+    "movementPattern": "hinge",
+    "difficulty": 2,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Hanging Leg Raise",
+    "primaryMuscle": "core",
+    "secondaryMuscles": [],
+    "equipment": [
+      "pullup_bar"
+    ],
+    "movementPattern": "core",
+    "difficulty": 2,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Leg Extension",
+    "primaryMuscle": "legs",
+    "secondaryMuscles": [],
+    "equipment": [
+      "machine"
+    ],
+    "movementPattern": "squat",
+    "difficulty": 1,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Hamstring Curl",
+    "primaryMuscle": "hamstrings",
+    "secondaryMuscles": [],
+    "equipment": [
+      "machine"
+    ],
+    "movementPattern": "hinge",
+    "difficulty": 1,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Face Pull",
+    "primaryMuscle": "upper_back",
+    "secondaryMuscles": [
+      "rear_delts"
+    ],
+    "equipment": [
+      "cable_machine"
+    ],
+    "movementPattern": "pull",
+    "difficulty": 1,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Farmer's Carry",
+    "primaryMuscle": "grip",
+    "secondaryMuscles": [
+      "core"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "movementPattern": "carry",
+    "difficulty": 2,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Bulgarian Split Squat",
+    "primaryMuscle": "legs",
+    "secondaryMuscles": [
+      "glutes"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "movementPattern": "squat",
+    "difficulty": 3,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "compound"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  },
+  {
+    "name": "Calf Raise",
+    "primaryMuscle": "calves",
+    "secondaryMuscles": [],
+    "equipment": [
+      "machine"
+    ],
+    "movementPattern": "other",
+    "difficulty": 1,
+    "isUnilateral": false,
+    "contraindications": [],
+    "tags": [
+      "accessory"
+    ],
+    "instructions": [
+      "Quality reps",
+      "Controlled tempo"
+    ]
+  }
+]
